@@ -1,5 +1,4 @@
-# privacy_policy
-CaptionAI Privacy Policy
+# CaptionAI Privacy Policy
 
 Last Updated: June 23, 2023
 
